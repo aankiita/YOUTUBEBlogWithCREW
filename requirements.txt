@@ -1,0 +1,9 @@
+crewai
+langchain
+crewai_tools
+python-dotenv
+langchain-huggingface
+langchain-community
+langchain-groq
+youtube-transcript-api
+litellm
